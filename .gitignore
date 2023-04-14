@@ -1,0 +1,10 @@
+.vscode
+.idea
+
+.env
+
+.DS_Store
+*.lock
+
+*.sh
+makefile
